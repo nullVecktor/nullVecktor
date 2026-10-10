@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0A0F0D,100:123D2B&text=nullVecktor&fontColor=66F2A3&fontSize=55&fontAlignY=45&desc=LEARN%20%E2%80%A2%20INVESTIGATE%20%E2%80%A2%20DEFEND&descAlignY=68&descSize=13" width="100%" alt="nullVecktor — Learn, Investigate, Defend" />
+<h1>Defensive Security & Systems</h1>
 </p><p align="center">
   <b>Aspiring SOC Analyst | Blue Team | Systems & Networking</b>
 </p><p align="center">
