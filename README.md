@@ -9,12 +9,6 @@
   <a href="#español">🇪🇸 Español</a>
 </p>
 
-### `Estadisticas`
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=isaccwebdev&show_icons=true&theme=radical)
-
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=isaccwebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
 <a id="english"></a>
