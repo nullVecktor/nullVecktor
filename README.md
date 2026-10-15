@@ -8,7 +8,10 @@
   <a href="#english">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="#español">🇪🇸 Español</a>
 </p>
-[![Codewars](https://www.codewars.com/users/isaccwebdev/badges/large)](https://www.codewars.com/users/isaccwebdev)
+
+<a href="https://www.codewars.com/users/nullVecktor">
+  <img src="https://www.codewars.com/users/nullVecktor/badges/micro" alt="Codewars" />
+</a>
 
 ---
 
