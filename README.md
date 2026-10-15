@@ -8,6 +8,7 @@
   <a href="#english">🇬🇧 English</a> &nbsp;|&nbsp;
   <a href="#español">🇪🇸 Español</a>
 </p>
+[![Codewars](https://www.codewars.com/users/isaccwebdev/badges/large)](https://www.codewars.com/users/isaccwebdev)
 
 ---
 
